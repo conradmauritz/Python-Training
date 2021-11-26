@@ -1,2 +1,2 @@
 # Training
-Exercises and projects I have completed for various courses
+Exercises I have completed for various courses
