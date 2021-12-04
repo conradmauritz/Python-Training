@@ -2,4 +2,5 @@
 
 hours = float(input("Enter the amount of hours worked: "))
 rate = float(input("Enter the hourly payment rate: "))
-print("The total payment amount is", (hours * rate))
+gross_pay = round((hours * rate), 2)
+print("The total payment amount is:", gross_pay)
